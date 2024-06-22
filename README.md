@@ -17,7 +17,7 @@ This project aims to explore and analyze Roller Coaster data using statistical t
 
 ## Data
 
-The dataset used for this analysis is sourced from Kaggle. You can find the dataset [here]([https://www.kaggle.com/datasets/nextmillionaire/pizza-sales-dataset/data](https://www.kaggle.com/datasets/robikscube/rollercoaster-database)).Or you can find it in the `data` directory. It contains information about pizza sales, including date, location, sales figures, and other relevant variables.
+The dataset used for this analysis is sourced from Kaggle. You can find the dataset [here](https://www.kaggle.com/datasets/robikscube/rollercoaster-database).Or you can find it in the `data` directory. It contains information about pizza sales, including date, location, sales figures, and other relevant variables.
 
 ## Analysis
 
