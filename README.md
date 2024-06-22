@@ -1,5 +1,8 @@
 # Roller Coaster Exploratory Data Analysis (EDA)
 
+
+![](data/flipflap.jpg)
+
 ## Overview
 
 This repository contains the code and data for performing an Exploratory Data Analysis (EDA) on Roller Coaster data. The analysis is based on the concepts and techniques outlined in the book "Practical Statistics for Data Scientists."
